@@ -189,7 +189,7 @@ if(email==null){
 	<div class="navbar navbar-inverse navbar-fixed-bottom">
 		<div class="container">
 			<div class="navbar-text pull-left">
-				<p>Design and Develop by INCAPP</p>
+				<p>Design and Develop by Nikhil Pathak</p>
 			</div>
 		</div>
 	</div>
